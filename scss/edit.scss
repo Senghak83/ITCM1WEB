@@ -1,0 +1,13 @@
+
+$body-bg: #000;
+$body-color: #fff;
+
+$theme-colors: (
+        "primary": #0074d9,
+        "danger": #ff4136,
+        "pink": #996796,
+        "success": #16990e
+
+);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
